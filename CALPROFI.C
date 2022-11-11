@@ -13,5 +13,7 @@ result = (sale - amount);
 		printf(" Loss");
 	else
 		printf("Profit");
+// if want to printf amount add an printf() function 
+	// printf("result");
 getch();
 }
